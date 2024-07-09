@@ -23,6 +23,9 @@ Unity, Blender, Java Spring Boot, AWS
 
 최장우(서버): Spring Boot 프로젝트 생성 및 AWS 배포 (https://github.com/team-samdi/mojiri-server)
 
+## 발표 자료
+https://drive.google.com/file/d/1Ww3NG1In9QoqE4mSHFAofVadf5LyPk1Z/view?usp=sharing
+
 ## 선배들 피드백
 - 광물이 땅 속이 아닌 길거리에 널려있는 것이 부자연스럽다. 향후 맵의 재구성이 필요하다.
 - 나무의 모델링이 조금 어색하다. 수정이 필요해보인다.
