@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProPixelizer", "ProPixelizer.csproj", "{df19110a-f988-ee0c-f5a5-7faa8e529610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{05ade433-3171-dda8-4057-cf3bef62faa0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{8295eec3-3835-a85c-17c6-cb265447269a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{df19110a-f988-ee0c-f5a5-7faa8e529610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df19110a-f988-ee0c-f5a5-7faa8e529610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ade433-3171-dda8-4057-cf3bef62faa0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ade433-3171-dda8-4057-cf3bef62faa0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8295eec3-3835-a85c-17c6-cb265447269a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8295eec3-3835-a85c-17c6-cb265447269a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
