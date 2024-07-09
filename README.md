@@ -21,7 +21,7 @@ Unity, Blender, Java Spring Boot, AWS
 
 김동훈(클라이언트): 기획, 플레이어 조작 구현, 인벤토리 구현, 채굴 구현
 
-최장우(서버): Spring Boot 프로젝트 생성 및 AWS 배포
+최장우(서버): Spring Boot 프로젝트 생성 및 AWS 배포 (https://github.com/team-samdi/mojiri-server)
 
 ## 선배들 피드백
 - 광물이 땅 속이 아닌 길거리에 널려있는 것이 부자연스럽다. 향후 맵의 재구성이 필요하다.
